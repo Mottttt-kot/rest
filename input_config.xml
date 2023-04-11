@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<MyData>
+	<VAR var_type="UST_overload">
+		<Value>100</Value>
+	</VAR>
+	<VAR var_type="UST_underloading">
+		<Value>113</Value>
+	</VAR>
+	<VAR var_type="UST">
+		<Value>108</Value>
+	</VAR>
+	<VAR var_type="RAB">
+		<Value>2</Value>
+	</VAR>
+	<VAR var_type="timer">
+		<Value>2</Value>
+	</VAR>
+</MyData>
